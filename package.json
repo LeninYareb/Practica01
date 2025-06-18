@@ -1,0 +1,8 @@
+{
+    "name": "Pracatica01",
+    "description": "description",
+    "authors": "Lenin Jareb Rosas Arzola <leninarzola@gmail.com> (Boleta: 119003163)",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+}
